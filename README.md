@@ -73,3 +73,5 @@ App Inventor 2- Creando aplicacion con Formulas y calculoas matematicos | PARTE 
 Ing. Diego Meza M. (2018, 24 marzo). USO DE APP INVENTOR - TEXTBOX Y ECUACIONES MATEMATICAS [Vídeo]. YouTube. https://www.youtube.com/watch?v=yNj7gN4ELZ8
 
 5. Vídeo
+
+https://youtu.be/VZ9tSpXPIK0
