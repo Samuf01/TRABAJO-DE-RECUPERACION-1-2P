@@ -4,7 +4,7 @@
 
 1.1. Objetivo General
 
-Construir una aplicacion mediante app inventor que permita calcular períodos, frecuencias, voltaje y corriente pico a pico, rms y promedio.
+Aprender la construcción de una aplicacion mediante app inventor que permita calcular períodos, frecuencias, voltaje y corriente pico a pico, rms y promedio.
 
 1.2. Objetivo Especifico
 
